@@ -4,9 +4,6 @@ An AI-powered delivery agent that navigates grid-based maps using informed and u
 
 This project demonstrates core AI concepts: pathfinding in static/dynamic environments, heuristic search (A*), stochastic optimization (Simulated Annealing), and simulation of real-world delivery scenarios.
 
-[![Python](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
-[![Tests](https://img.shields.io/badge/Tests-6%20Passing-brightgreen)](https://github.com/prakhhhh/autonomous-delivery-agent/actions)
 
 ## Features
 - **Search Planners**:
@@ -26,7 +23,6 @@ This project demonstrates core AI concepts: pathfinding in static/dynamic enviro
 ## Quick Demo
 Run A* on the small map to see an optimal path avoiding obstacles:
 
-![A* Path on Small Map](docs/path_astar_small.png)
 
 *(Red line: Heuristic-guided path from (0,0) to (4,4). Blue heatmap: Terrain costs; dark squares: obstacles.)*
 
@@ -62,6 +58,7 @@ autonomous-delivery-agent/
 ├── tests/                 # Unit tests
     ├── test_grid.py
     └── test_planners.py
+
 
 
 
