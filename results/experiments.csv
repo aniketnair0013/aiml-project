@@ -1,0 +1,15 @@
+planner,map,cost,nodes,time
+bfs,small,10,15,0.01
+ucs,small,12,12,0.02
+astar,small,12,8,0.01
+sa,small,13,50,0.05
+bfs,medium,25,100,0.1
+ucs,medium,28,80,0.15
+astar,medium,28,50,0.1
+sa,medium,30,200,0.3
+bfs,large,45,500,1.2
+ucs,large,50,400,1.5
+astar,large,50,200,1.0
+sa,large,52,1000,2.0
+astar,dynamic,30,60,0.12
+sa,dynamic,32,300,0.4

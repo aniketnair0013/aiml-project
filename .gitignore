@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# Generated runtime
+replan_log.txt
+path_*.png  # Ignores extra plots (samples in docs/ are committed manually)
+
+# Media (keep small screenshots/plots; ignore large videos)
+videos/*.mp4  # Or remove if committing small ones
+screenshots/*.png  # If not committing raw screenshots
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
