@@ -59,13 +59,9 @@ autonomous-delivery-agent/
     ├── test_grid.py
     └── test_planners.py
 
-# My Repo
-
 Here's a demo video:
+https://github.com/user-attachments/assets/18e30041-a321-4a13-9f2b-797ac9f8cdc4
 
-<video src="vityarthi video.mp4" controls autoplay loop muted>
-  Your browser does not support the video tag.
-</video>
 
 
 
