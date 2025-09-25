@@ -27,7 +27,7 @@ Run A* on the small map to see an optimal path avoiding obstacles:
 *(Red line: Heuristic-guided path from (0,0) to (4,4). Blue heatmap: Terrain costs; dark squares: obstacles.)*
 
 ## Setup
-1. **Clone the Repository**:git clone https://github.com/aniketnair0013/autonomous-delivery-agent.git cd autonomous-delivery-agent
+1. **Clone the Repository**:git clone https://github.com/aniketnair0013/autonomous-delivery-agent.git/ cd autonomous-delivery-agent
 2. **Install Dependencies** (Python 3.11+ required):- Core: NumPy (arrays/grids), Matplotlib (plots), pytest (tests).
 3. **Run Tests** (Verify everything works):
 4. pytest tests/ -v
@@ -61,6 +61,7 @@ autonomous-delivery-agent/
 
 Here's a demo video:
 https://github.com/user-attachments/assets/18e30041-a321-4a13-9f2b-797ac9f8cdc4
+
 
 
 
